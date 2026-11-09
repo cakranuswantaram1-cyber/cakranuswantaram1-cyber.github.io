@@ -53,6 +53,11 @@
         "namespace": "android_app",
         "package_name": "io.github.cakranuswantaram1_cyber.pembuatanjadwal",
         "sha256_cert_fingerprints": ["21:DA:CA:C4:24:54:C2:13:6E:6A:5C:B6:08:B8:4C:66:5B:97:76:59:59:38:27:86:2B:92:28:87:5D:87:CA:DD"]
+       "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.cakranuswantaram1_cyber.simjasbuatjadwal",
+        "sha256_cert_fingerprints": ["5D:35:29:65:28:00:95:8C:1B:95:52:93:AE:DE:64:65:3A:EE:45:CF:B5:77:46:D5:55:7D:7F:FF:D6:82:13:A8"]
    }
   }
 ]
