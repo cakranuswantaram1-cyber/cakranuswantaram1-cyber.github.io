@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.cakranuswantaram1_cyber.twa",
+    "sha256_cert_fingerprints": ["04:F5:A1:50:0B:7A:3E:6F:69:C1:98:15:79:D2:97:CE:9D:D3:F0:CB:1B:50:A9:66:E6:58:E0:BA:52:EA:32:A5"]
+  }
+}]
