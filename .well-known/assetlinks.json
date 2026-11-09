@@ -14,15 +14,14 @@
       "package_name": "io.github.cakranuswantaram1_cyber.vault",
       "sha256_cert_fingerprints": ["27:35:FC:5C:E4:E9:2E:B5:33:52:FD:28:2A:1A:CD:D9:18:6F:C7:0E:F3:1B:C9:04:C7:CD:0D:A5:A4:0D:43:C0"]
     }
-  }, 
-{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.cakranuswantaram1_cyber.fotoscan",
-        "sha256_cert_fingerprints": ["5F:C9:7E:53:F1:A1:45:4A:D8:AF:4C:F9:82:4A:16:A4:C0:B4:FF:0A:15:1F:47:68:28:3F:91:67:36:40:B5:61"]
-      }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.cakranuswantaram1_cyber.fotoscan",
+      "sha256_cert_fingerprints": ["5F:C9:7E:53:F1:A1:45:4A:D8:AF:4C:F9:82:4A:16:A4:C0:B4:FF:0A:15:1F:47:68:28:3F:91:67:36:40:B5:61"]
     }
-    ]
-
+  }
+]
 
