@@ -37,6 +37,14 @@
         "namespace": "android_app",
         "package_name": "io.github.cakranuswantaram1_cyber.pengingat",
         "sha256_cert_fingerprints": ["B4:82:93:52:94:08:D8:FC:76:55:50:52:43:36:52:5E:23:1A:9E:25:4E:7D:19:6F:95:23:A5:7F:89:8B:14:2E"]
+   }
+  },
+  {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.cakranuswantaram1_cyber.tabunganbendahara",
+        "sha256_cert_fingerprints": ["65:71:1C:6C:93:28:7A:1B:4C:BC:93:81:DD:69:D3:CD:AE:AE:C6:18:ED:10:5B:9A:2F:5F:23:5E:DC:F4:7D:5A"]
       }
   }
 ]
