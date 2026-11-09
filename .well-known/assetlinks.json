@@ -44,7 +44,15 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.cakranuswantaram1_cyber.tabunganbendahara",
-        "sha256_cert_fingerprints": ["65:71:1C:6C:93:28:7A:1B:4C:BC:93:81:DD:69:D3:CD:AE:AE:C6:18:ED:10:5B:9A:2F:5F:23:5E:DC:F4:7D:5A"]
+      "sha256_cert_fingerprints": ["65:71:1C:6C:93:28:7A:1B:4C:BC:93:81:DD:69:D3:CD:AE:AE:C6:18:ED:10:5B:9A:2F:5F:23:5E:DC:F4:7D:5A"]
+   }
+  },
+  {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.cakranuswantaram1_cyber.tabunganbendahara",
+        "sha256_cert_fingerprints": ["0F:4F:69:FD:2F:9B:73:30:24:43:0D:33:30:4C:C3:34:F0:56:5F:4C:58:B2:CC:4B:FF:E6:9A:50:79:77:C6:F8"]
    }
   }
 ]
