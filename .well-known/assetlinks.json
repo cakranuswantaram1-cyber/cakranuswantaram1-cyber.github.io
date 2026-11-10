@@ -70,5 +70,13 @@
        "package_name": "io.github.cakranuswantaram1_cyber.penilaianpkg",
        "sha256_cert_fingerprints": ["40:9E:9E:87:43:1F:74:AB:2A:49:55:C5:12:0F:0B:8A:9D:E4:84:45:5A:66:CA:FF:E5:51:A3:A5:6E:FD:BF:9D"]
     }
-  }
-]
+  },
+  {
+     "relation": ["delegate_permission/common.handle_all_urls"],
+     "target": {
+       "namespace": "android_app",
+       "package_name": "io.github.cakranuswantaram1_cyber.eraport",
+       "sha256_cert_fingerprints": ["25:1C:20:FC:CC:0B:19:1F:06:BE:12:98:7B:44:4B:5C:46:30:60:14:D9:9C:D5:83:AA:30:E2:17:8E:5A:5C:74"]
+     }
+   }
+ ]
