@@ -77,6 +77,14 @@
        "namespace": "android_app",
        "package_name": "io.github.cakranuswantaram1_cyber.eraport",
        "sha256_cert_fingerprints": ["25:1C:20:FC:CC:0B:19:1F:06:BE:12:98:7B:44:4B:5C:46:30:60:14:D9:9C:D5:83:AA:30:E2:17:8E:5A:5C:74"]
+    }
+  },
+  {  
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.cakranuswantaram1_cyber.tabungansekolah",
+        "sha256_cert_fingerprints": ["23:E4:FE:3F:16:76:A4:E8:3F:83:64:F3:16:47:22:66:B5:49:81:B7:6C:C4:43:E0:76:77:55:5B:85:BF:80:0A"]
      }
    }
  ]
