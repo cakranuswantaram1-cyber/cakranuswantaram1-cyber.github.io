@@ -85,6 +85,14 @@
         "namespace": "android_app",
         "package_name": "io.github.cakranuswantaram1_cyber.tabungansekolah",
         "sha256_cert_fingerprints": ["23:E4:FE:3F:16:76:A4:E8:3F:83:64:F3:16:47:22:66:B5:49:81:B7:6C:C4:43:E0:76:77:55:5B:85:BF:80:0A"]
-     }
+    }
+   },
+   { 
+       "relation": ["delegate_permission/common.handle_all_urls"],
+       "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.cakranuswantaram1_cyber.editfoto",
+        "sha256_cert_fingerprints": ["7F:6A:02:96:2D:A5:95:9E:A3:D5:09:4B:16:53:95:57:C4:8B:9D:C0:6C:E0:48:EF:0A:3F:98:38:5D:52:A5:B1"]
+      }
    }
  ]
